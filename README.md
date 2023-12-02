@@ -6,6 +6,6 @@ This is a Repository of various smaller projects. These have all been written by
 
 ## List of Projects
 Here is a handy list of the projects with links to their respective README files:
-* URL Shortener
-* Redis Server
-*Realtime Chat Client/Server
+* [URL Shortener](https://github.com/nathannj/project-family/blob/main/URL_Shortener/README.md)
+* [Redis Server](https://github.com/nathannj/project-family/blob/main/Redis_Server/README.md)
+* [Realtime Chat Client/Server](https://github.com/nathannj/project-family/blob/main/Realtime_Chat_Client_Server/README.md)
